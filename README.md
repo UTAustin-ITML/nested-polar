@@ -1,5 +1,4 @@
-# ai-polar-pg
-Optimized Polar Code design using policy gradient and transformer architecture
+Official Implementation of "[Nested Construction of Polar Codes via Transformers](https://ieeexplore.ieee.org/abstract/document/10619466)", International Symposium on Information Theory (ISIT), 2024.
 
 
 
